@@ -18,7 +18,10 @@ export default function About() {
             <button className="inline-flex text-white bg-indigo-500 border-0 py-1 px-4 focus:outline-none hover:bg-blue-600 rounded">
               Button
             </button>
-            <Link  href="/" className="text-indigo-500 inline-flex items-center ml-4">
+            <Link
+              href="/"
+              className="text-indigo-500 inline-flex items-center ml-4"
+            >
               Learn More
               <svg
                 fill="none"
